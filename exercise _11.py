@@ -1,5 +1,5 @@
 numbers = list(range(1, 11))  # Create a list from 1 to 10
-for num in numbers:
+for num in numbers:1
     if num == 3:
         continue  # Skip the rest of this iteration when num is 3
 
